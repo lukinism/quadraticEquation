@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">quadraticEquation</string>
+    <string name="tvText">The Quadratic Equation</string>
+    <string name="a" translatable="false">a</string>
+    <string name="b" translatable="false">b</string>
+    <string name="c" translatable="false">c</string>
+    <string name="qu" translatable="false">qu</string>.
+    <string name="solve">Solve</string>
+    <string name="result">Result:</string>
+</resources>
